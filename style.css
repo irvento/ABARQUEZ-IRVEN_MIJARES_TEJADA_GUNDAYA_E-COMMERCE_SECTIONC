@@ -1,0 +1,208 @@
+.login_body{
+    background-image: url(muckk.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    align-items: center;
+}
+.login_container{
+    
+    background-color: rgba(240, 248, 255, 0.845);
+    border: 2px yellow;
+    border-radius: 10px;
+    height: 500px;
+    width: 500px;  
+    margin: 8% 25% 5% 30%;
+}
+.login_h1{
+    font-family: Georgia, serif;
+font-size: 64px;
+letter-spacing: -1.4px;
+word-spacing: 1.2px;
+color: #000000;
+font-weight: 400;
+text-decoration: none;
+font-style: italic;
+font-variant: small-caps;
+text-transform: lowercase;
+text-align: center;
+
+ 
+}
+.login_content{
+    padding: 10px;
+    margin: 5% 5% 5% 5%;
+}
+
+  
+  .input-group {
+    margin-bottom: 20px;
+  }
+  
+  .input-group label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  .input-group input {
+    width: 90%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  button {
+    margin: 1% 0 0 12%;
+    width: 70%;
+    padding: 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+
+  .registerbox{
+    background-color: rgba(240, 248, 255, 0.845);
+    border: 2px yellow;
+    border-radius: 10px;
+
+    margin:2% 2% 4% 2% ;
+
+  }
+
+
+
+
+
+
+
+
+  .homepage_body{
+    background-image: url(https://wallpaperaccess.com/full/2832139.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+  }
+
+  .navbar {
+    background-color: #333333c0;
+    color: #fff;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    border-radius: 10px;
+    position: relative;
+  }
+  
+  .logo a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 1.5rem;
+  }
+  
+  .nav-links {
+    list-style: none;
+    display: flex;
+  }
+  
+  .nav-links li {
+    margin-right: 20px;
+  }
+  
+  .nav-links li a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  .cart a {
+    color: #fff;
+    text-decoration: none;
+    position: relative;
+  }
+  
+  .cart-items {
+    background-color: #ff6600;
+    color: #fff;
+    border-radius: 50%;
+    padding: 3px 6px;
+    font-size: 0.8rem;
+    position: absolute;
+    top: -8px;
+    right: -10px;
+  }
+  
+  .boxborder{
+    background-color: rgba(255, 255, 255, 0.334);
+    background-attachment: fixed;
+    border-radius: 10px;
+    margin: 10px 10px 10px 10px;
+  }
+
+  .content {
+    padding: 20px;
+  }
+  
+  .products {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    grid-gap: 20px;
+  }
+  
+  .product {
+    border: 2px solid gold;
+    padding: 10px;
+    border-radius: 5px;
+    transition: all ease-in-out .3s;
+  }
+
+  .product:hover{
+    transform: scale(1.1);
+  }
+
+  
+  .product img {
+    width: 100%;
+    height: auto;
+    border-radius: 5px;
+  }
+  
+  .product h2 {
+    background-color: rgba(255, 255, 255, 0.404);
+    margin-top: 10px;
+  }
+  
+  .product p {background-color: rgba(255, 255, 255, 0.404);
+    margin: 5px 0;
+  }
+  
+  .product button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 8px 12px;
+    border-radius: 5px;
+    cursor: pointer;
+    
+  }
+  
+  .product button:hover {
+    background-color: #0056b3;
+  }
+  
+  .about-text {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .about-text h2 {
+    margin-top: 20px;
+  }
+  
+  .about-text p {
+    margin: 10px 0;
+  }
