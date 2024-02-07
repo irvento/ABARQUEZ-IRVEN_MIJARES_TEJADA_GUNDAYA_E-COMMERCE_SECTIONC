@@ -241,7 +241,7 @@ border-radius: 5px;
   position: absolute;
   top: 50%;
   transform: translateY(-50%);
-  z-index: 1;
+  width: 50px;
   cursor: pointer;
   color: #fff;
   background: rgba(0, 0, 0, 0.5);
