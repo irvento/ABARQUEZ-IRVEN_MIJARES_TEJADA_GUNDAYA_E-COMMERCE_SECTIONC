@@ -1,9 +1,6 @@
 
 
-function openPage() {
-  window.location.href = "homepage.html";
 
-}
 
 function showRegisterForm() {
   document.getElementById("register-form").style.display = "block";
@@ -50,3 +47,19 @@ const categoryWrapper = document.querySelector('.category-wrapper');
 
     // Auto slide every 3 seconds
     setInterval(goToNextCategory, 3000);
+
+    function validateForm() {
+      var username = document.getElementById("username").value;
+      var password = document.getElementById("password").value;
+      if (username === "" || password === "") {
+          alert("Please enter both username and password.");
+          return false;
+      }
+      openPage(); // Call openPage() if form is valid
+      return true;
+  }
+  
+  function openPage() {
+    window.location.href = "homepage.html";
+      alert("Opening next page...");
+  }

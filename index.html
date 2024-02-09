@@ -1,56 +1,41 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-
-    <title>Ecom</title>
+    <title>Ecom - Login</title>
     <link rel="stylesheet" href="style.css">
-
 </head>
-
 <body class="login_body">
     <div class="login_container">
         <h1 class="login_h1">MUCK</h1>
-
         <div class="login_content">
             <h2>Login</h2>
-
-            <form action="#" method="POST">
+            <form action="#" method="POST" id="login-form" onsubmit="return validateForm()">
                 <div class="input-group">
                     <label for="username">Username</label>
                     <input type="text" id="username" name="username" required>
                 </div>
                 <div class="input-group">
                     <label for="password">Password</label>
-                    <input type="password" id="password" name="password">
+                    <input type="password" id="password" name="password" required>
                 </div>
-                <button class="buttonlogin" type="submit" id="button_login" onclick="openPage()">Login</button>
+                <button class="buttonlogin" type="submit" id="button_login">Login</button>
                 <button class="buttonlogin" type="button" id="button_register" onclick="showRegisterForm()">Register</button>
             </form>
-
-            <!-- Additional content for registration -->
+            <!-- Registration Form -->
             <form action="#" method="POST" id="register-form" style="display: none;">
-                <!-- Add your registration form fields here -->
                 <div class="registerbox">
                     <div class="input-group">
-                        <div class="registerbox">
-                            <label for="email">Email</label>
-                            <input type="email" id="email" name="email" required>
-                        </div>
-                        <!-- Add more registration form fields as needed -->
-                        <button class="buttonlogin" type="submit">Register</button>
-                        <br><br>
+                        <label for="email">Email</label>
+                        <input type="email" id="email" name="email" required>
                     </div>
+                    <!-- Additional registration fields can be added here -->
+                    <button class="buttonlogin" type="submit">Register</button>
                 </div>
             </form>
         </div>
-
     </div>
-
     <script src="script.js"></script>
 </body>
-
 </html>
