@@ -100,12 +100,12 @@ button:hover {
 
 .homeimg {
 
-  background-image: linear-gradient(to bottom, rgba(245, 246, 252, 0), rgb(92, 60, 0)), url(https://www.shindig.nz/wp-content/uploads/2021/08/muck-feature.jpg);
+  background-image: linear-gradient(to bottom, rgba(245, 246, 252, 0), rgb(110, 110, 110)), url(https://images4.alphacoders.com/108/1085299.jpg);
 
   background-attachment: fixed;
   background-repeat: no-repeat;
-  background-size: contain;
-  background-position: top;
+  background-size: cover;
+  background-position: bottom;
 
 
 }
@@ -168,13 +168,16 @@ button:hover {
 
 
 .container {
-  border-radius: 10px;
+  border-radius: 5px;
   border: 3px solid rgb(96, 96, 96);
   width: 93vw;
   height: 100vh;
   display: flex;
   position: relative;
   overflow: hidden;
+  box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+-webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
 }
 
 .category-wrapper {
@@ -192,6 +195,7 @@ button:hover {
   font-size: 3em;
   color: #fff;
   text-align: center;
+  
 }
 
 .NIKE, .ADIDAS, .FILA, .UNDERARMOR, .PUMA, .VANS, .ASICS, .REEBOK, .NEWBALANCE, .SKETCHERS{
@@ -199,9 +203,7 @@ button:hover {
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
-  box-shadow: 4px 2px 12px 5px rgba(0, 0, 0, 0.75);
-  -webkit-box-shadow: 4px 2px 12px 5px rgba(0, 0, 0, 0.75);
-  -moz-box-shadow: 4px 2px 12px 5px rgba(0, 0, 0, 0.75);
+  
   transition: ease-in-out .2s;
 }
 .NIKE {
@@ -236,7 +238,7 @@ button:hover {
 }
 
 .control {
-border-radius: 5px;
+border-radius: 3px;
   margin: 35% 5% 0 5%;
   position: absolute;
   top: 50%;
@@ -272,7 +274,7 @@ border-radius: 5px;
 .boxborder {
   background-color: rgba(255, 255, 255, 0.689);
   background-attachment: fixed;
-  border-radius: 10px;
+  border-radius: 5px;
   border: 5px solid rgb(255, 255, 255);
   margin: 10px 10px 10px 10px;
 }
@@ -293,6 +295,7 @@ border-radius: 5px;
 }
 
 .product {
+  background-repeat: no-repeat;background-size: cover; background-position: center;
   border: 2px solid rgb(93, 93, 93);
   padding: 10px;
   border-radius: 5px;
@@ -314,6 +317,7 @@ border-radius: 5px;
 }
 
 .product h2 {
+  text-shadow: 4px 4px 2px rgba(134, 134, 134, 0.6);
   margin-top: 10px;
 }
 
