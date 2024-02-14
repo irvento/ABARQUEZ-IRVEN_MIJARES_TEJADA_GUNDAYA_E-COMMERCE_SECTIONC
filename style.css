@@ -295,6 +295,7 @@ border-radius: 3px;
 }
 
 .product {
+  
   background-repeat: no-repeat;background-size: cover; background-position: center;
   border: 2px solid rgb(93, 93, 93);
   padding: 10px;
@@ -319,7 +320,7 @@ border-radius: 3px;
 .product h2 {
   text-shadow: 4px 4px 2px rgba(134, 134, 134, 0.6);
   margin-top: 10px;
-}
+} 
 
 .product p {
 color: white;
@@ -360,4 +361,10 @@ color: white;
 
 .about-text p {
   margin: 10px 0;
+}
+
+.aboutcontent{
+  background-image: url(https://hd.wallpaperswide.com/thumbs/nike_shoes-t2.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
 }
