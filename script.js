@@ -1,7 +1,3 @@
-
-
-
-
 function showRegisterForm() {
   document.getElementById("register-form").style.display = "block";
 }
@@ -48,42 +44,42 @@ function updateTransform() {
 // Auto slide every 3 seconds
 setInterval(goToNextCategory, 3000);
 
-    function validateForm() {
-      var username = document.getElementById("username").value;
-      var password = document.getElementById("password").value;
-      if (username === "" || password === "") {
-          alert("Please enter both username and password.");
-          return false;
-      }
-      openPage(); // Call openPage() if form is valid
-      return true;
+function validateForm() {
+  var username = document.getElementById("username").value;
+  var password = document.getElementById("password").value;
+  if (username === "" || password === "") {
+    alert("Please enter both username and password.");
+    return false;
   }
-  
-  function openPage() {
-    window.location.href = "homepage.html";
-      alert("Opening next page...");
-  }
+  openPage(); // Call openPage() if form is valid
+  return true;
+}
 
-  document.addEventListener("DOMContentLoaded", function() {
-    fetch("data.json")
-      .then(response => response.json())
-      .then(data => renderProducts(data))
-      .catch(error => console.error("Error fetching data:", error));
+function openPage() {
+  window.location.href = "homepage.html";
+  alert("Opening next page...");
+}
+
+document.addEventListener("DOMContentLoaded", function () {
+  fetch("data.json")
+    .then(response => response.json())
+    .then(data => renderProducts(data))
+    .catch(error => console.error("Error fetching data:", error));
 });
 
 function renderProducts(data) {
-    var productCatalog = document.getElementById("productCatalog");
-  
-    Object.keys(data).forEach(function(brand) {
-        var brandHeading = document.createElement("h2");
-        brandHeading.textContent = brand;
-        productCatalog.appendChild(brandHeading);
-  
-        var productList = document.createElement("ul");
-  
-        data[brand].forEach(function(item) {
-            var listItem = document.createElement("li");
-            listItem.innerHTML = `
+  var productCatalog = document.getElementById("productCatalog");
+
+  Object.keys(data).forEach(function (brand) {
+    var brandHeading = document.createElement("h2");
+    brandHeading.textContent = brand;
+    productCatalog.appendChild(brandHeading);
+
+    var productList = document.createElement("ul");
+
+    data[brand].forEach(function (item) {
+      var listItem = document.createElement("li");
+      listItem.innerHTML = `
                 <div class="product" style="background-image:${item.background};">
                     <h2>${item.name}</h2>
                     <p>${item.category}</p>
@@ -91,9 +87,9 @@ function renderProducts(data) {
                     <button class="addtocart">Add to Cart</button>
                 </div>
             `;
-            productList.appendChild(listItem);
-        });
-  
-        productCatalog.appendChild(productList);
+      productList.appendChild(listItem);
     });
+
+    productCatalog.appendChild(productList);
+  });
 }
