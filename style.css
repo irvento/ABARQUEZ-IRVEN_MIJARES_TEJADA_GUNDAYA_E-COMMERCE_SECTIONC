@@ -308,7 +308,9 @@ button:hover {
 }
 
 .product {
-  background-repeat: no-repeat;background-size: cover; background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
   border: 2px solid rgb(93, 93, 93);
   padding: 10px;
   border-radius: 5px;
@@ -322,7 +324,6 @@ button:hover {
   transform: scale(1.05);
 }
 
-
 .product img {
   width: 100%;
   height: auto;
@@ -333,13 +334,12 @@ button:hover {
   color: #000000;
   text-shadow: 4px 4px 2px rgba(134, 134, 134, 0.6);
   margin-top: 10px;
-} 
+}
 
 .product p {
   color: rgb(0, 0, 0);
   margin: 5px 0;
 }
-
 
 .product-container {
   display: flex;
@@ -352,16 +352,16 @@ button:hover {
   padding: 20px;
   background-color: #d3d3d3;
   border-radius: 10px;
-  box-shadow: -1px 4px 33px -6px rgba(0,0,0,0.75);
--webkit-box-shadow: -1px 4px 33px -6px rgba(0,0,0,0.75);
--moz-box-shadow: -1px 4px 33px -6px rgba(0,0,0,0.75);
-border: 2px solid black;
+  box-shadow: -1px 4px 33px -6px rgba(0, 0, 0, 0.75);
+  -webkit-box-shadow: -1px 4px 33px -6px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: -1px 4px 33px -6px rgba(0, 0, 0, 0.75);
+  border: 2px solid black;
 }
 
 .brand h2 {
   color: #ffffff;
   text-align: center;
-  text-shadow: 4px 4px 2px rgba(0,0,0,0.6);
+  text-shadow: 4px 4px 2px rgba(0, 0, 0, 0.6);
 }
 
 .items-container {
@@ -376,9 +376,9 @@ border: 2px solid black;
   padding: 10px;
   background-color: #fff;
   border-radius: 5px;
-  box-shadow: 0px 0px 30px -4px rgba(0,0,0,0.75);
--webkit-box-shadow: 0px 0px 30px -4px rgba(0,0,0,0.75);
--moz-box-shadow: 0px 0px 30px -4px rgba(0,0,0,0.75);
+  box-shadow: 0px 0px 30px -4px rgba(0, 0, 0, 0.75);
+  -webkit-box-shadow: 0px 0px 30px -4px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 0px 0px 30px -4px rgba(0, 0, 0, 0.75);
 }
 
 .item img {
@@ -394,7 +394,6 @@ border: 2px solid black;
 .item p:nth-child(3) {
   font-weight: bold;
 }
-
 
 .addtocart {
   flex-direction: column;
@@ -434,7 +433,7 @@ border: 2px solid black;
   margin: 10px 0;
 }
 
-.aboutcontent{
+.aboutcontent {
   background-image: url(https://hd.wallpaperswide.com/thumbs/nike_shoes-t2.jpg);
   background-size: cover;
   background-repeat: no-repeat;
