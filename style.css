@@ -114,13 +114,14 @@ button:hover {
 }
 
 .navbar {
-  background-color: rgb(127, 127, 127);
+  background-image: linear-gradient(to right, rgba(255, 255, 255, 0.427), black);
+  background-color: rgb(0, 0, 0);
   color: #fff;
   display: flex;
   justify-content: space-between;
   align-items: center;
   padding: 10px 20px;
-  border-radius: 10px;
+
   position: relative;
   border: 3px solid rgb(255, 251, 251);
 }
@@ -138,11 +139,20 @@ button:hover {
 
 .nav-links li {
   margin-right: 20px;
+  
 }
 
 .nav-links li a {
-  color: #fff;
-  text-decoration: none;
+  font-family: "Lucida Console", Monaco, monospace;
+font-size: 26px;
+letter-spacing: -2.8px;
+word-spacing: 1.6px;
+color: #ffffff;
+font-weight: normal;
+text-decoration: none;
+font-style: normal;
+font-variant: small-caps;
+text-transform: none;
 }
 
 .cart a {
@@ -285,11 +295,13 @@ button:hover {
 }
 
 .boxborder {
-  background-color: rgba(255, 255, 255, 0.689);
-  background-attachment: fixed;
+  background: url(https://i.pinimg.com/236x/43/b6/33/43b633dbe56b402a9a0d15ba03a19055.jpg);
+  background-color: rgba(255, 255, 255, 0.438);
+
   border-radius: 5px;
   border: 5px solid rgb(255, 255, 255);
   margin: 10px 10px 10px 10px;
+  
 }
 
 .content {
@@ -309,7 +321,7 @@ button:hover {
 
 .product {
   background-repeat: no-repeat;background-size: cover; background-position: center;
-  border: 2px solid rgb(93, 93, 93);
+  border: 2px solid rgb(0, 0, 0);
   padding: 10px;
   border-radius: 5px;
   box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
@@ -331,7 +343,7 @@ button:hover {
 
 .product h2 {
   color: #000000;
-  text-shadow: 4px 4px 2px rgba(134, 134, 134, 0.6);
+  text-shadow: 4px 4px 2px rgba(168, 0, 0, 0.6);
   margin-top: 10px;
 } 
 
@@ -350,7 +362,7 @@ button:hover {
 .brand {
   margin: 20px;
   padding: 20px;
-  background-color: #d3d3d3;
+  background-color: rgba(255, 255, 255, 0.856);
   border-radius: 10px;
   box-shadow: -1px 4px 33px -6px rgba(0,0,0,0.75);
 -webkit-box-shadow: -1px 4px 33px -6px rgba(0,0,0,0.75);
@@ -361,7 +373,7 @@ border: 2px solid black;
 .brand h2 {
   color: #ffffff;
   text-align: center;
-  text-shadow: 4px 4px 2px rgba(0,0,0,0.6);
+  text-shadow: 4px 4px 2px rgba(69, 69, 69, 0.6);
 }
 
 .items-container {
@@ -384,6 +396,9 @@ border: 2px solid black;
 .item img {
   width: 100%;
   border-radius: 5px;
+  box-shadow: 0px 0px 5px 1px rgba(0,0,0,0.75);
+-webkit-box-shadow: 0px 0px 5px 1px rgba(0,0,0,0.75);
+-moz-box-shadow: 0px 0px 5px 1px rgba(0,0,0,0.75);
 }
 
 .item p {
@@ -435,7 +450,8 @@ border: 2px solid black;
 }
 
 .aboutcontent{
-  background-image: url(https://hd.wallpaperswide.com/thumbs/nike_shoes-t2.jpg);
-  background-size: cover;
+  background-image: url(https://wallpapers.com/images/hd/jordan-shoes-4k-b2jdj8vbdz8s5fel.jpg);
+ background-position: center;
+ background-size: cover;
   background-repeat: no-repeat;
 }
