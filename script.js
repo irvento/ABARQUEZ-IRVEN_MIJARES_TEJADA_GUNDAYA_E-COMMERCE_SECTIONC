@@ -64,36 +64,55 @@ setInterval(goToNextCategory, 3000);
       alert("Opening next page...");
   }
 
+
   document.addEventListener("DOMContentLoaded", function() {
     fetch("data.json")
       .then(response => response.json())
       .then(data => renderProducts(data))
       .catch(error => console.error("Error fetching data:", error));
-});
-
-function renderProducts(data) {
-    var productCatalog = document.getElementById("productCatalog");
+  });
   
-    Object.keys(data).forEach(function(brand) {
-        var brandHeading = document.createElement("h2");
-        brandHeading.textContent = brand;
-        productCatalog.appendChild(brandHeading);
+  function renderProducts(data) {
+    const productContainer = document.getElementById("productContainer");
   
-        var productList = document.createElement("ul");
+    data.products.forEach(brand => {
+      const brandName = brand.brand.toUpperCase();
+      const brandDiv = document.createElement("div");
+      brandDiv.classList.add("brand");
   
-        data[brand].forEach(function(item) {
-            var listItem = document.createElement("li");
-            listItem.innerHTML = `
-                <div class="product" style="background-image:${item.background};">
-                    <h2>${item.name}</h2>
-                    <p>${item.category}</p>
-                    <p>Price: ₱${item.price}</p>
-                    <button class="addtocart">Add to Cart</button>
-                </div>
-            `;
-            productList.appendChild(listItem);
-        });
+      const brandHeading = document.createElement("h2");
+      brandHeading.textContent = brandName;
+      brandDiv.appendChild(brandHeading);
   
-        productCatalog.appendChild(productList);
+      const itemsContainer = document.createElement("div");
+      itemsContainer.classList.add("items-container");
+  
+      brand.items.forEach(item => {
+        const itemDiv = document.createElement("div");
+        itemDiv.classList.add("item");
+  
+        const image = document.createElement("img");
+        image.src = item.image;
+        image.alt = item.name;
+  
+        const itemName = document.createElement("p");
+        itemName.textContent = item.name;
+  
+        const itemCategory = document.createElement("p");
+        itemCategory.textContent = item.category;
+  
+        const itemPrice = document.createElement("p");
+        itemPrice.textContent = item.price;
+  
+        itemDiv.appendChild(image);
+        itemDiv.appendChild(itemName);
+        itemDiv.appendChild(itemCategory);
+        itemDiv.appendChild(itemPrice);
+        itemsContainer.appendChild(itemDiv);
+      });
+  
+      brandDiv.appendChild(itemsContainer);
+      productContainer.appendChild(brandDiv);
     });
-}
+  }
+  

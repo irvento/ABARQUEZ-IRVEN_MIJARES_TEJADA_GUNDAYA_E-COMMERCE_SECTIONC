@@ -129,6 +129,17 @@
             "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/47794cf902dd4f2aa35dad0a013f74e0_9366/EQ21_Run_Shoes_Grey_H00515_01_standard.jpg"
           }
         ]
+      },
+      {
+        "brand": "FILA",
+        "items": [
+          {
+            "name": "Fila Disrupto",
+            "category": "Men Originals",
+            "price": "₱8,000",
+            "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/a73ec239af2e43d690e0ad4700a3c2dd_9366/NMD_R1_Shoes_White_GZ9259_01_standard.jpg"
+          }
+        ]
       }
     ]
   }
