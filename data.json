@@ -131,8 +131,62 @@
         ]
       },
       {
-        "brand": "FILA",
+        "brand": "UNDERARMOR",
         "items": [
+          {
+            "name": "Phantom 3 SE Storm",
+            "category": "Running Shoes",
+            "price": "₱6,746",
+            "image": "https://underarmour.scene7.com/is/image/Underarmour/3026610-301_DEFAULT?rp=standard-30pad|pdpZoomDesktop&scl=0.50&fmt=jpg&qlt=85&resMode=sharp2&cache=on,on&bgc=f0f0f0&wid=1836&hei=1950&size=850,850"
+          },
+          {
+            "name": "Turbulence 2",
+            "category": "Running Shoes",
+            "price": "₱4,192",
+            "image": "https://underarmour.scene7.com/is/image/Underarmour/3026520-004_DEFAULT?rp=standard-30pad|pdpZoomDesktop&scl=0.50&fmt=jpg&qlt=85&resMode=sharp2&cache=on,on&bgc=f0f0f0&wid=1836&hei=1950&size=850,850"
+          },
+          {
+            "name": "Lockdown 6 ",
+            "category": "Running Shoes",
+            "price": "₱3,221",
+            "image": "https://underarmour.scene7.com/is/image/Underarmour/3025616-102_DEFAULT?rp=standard-30pad|pdpZoomDesktop&scl=0.50&fmt=jpg&qlt=85&resMode=sharp2&cache=on,on&bgc=f0f0f0&wid=1836&hei=1950&size=850,850"
+          },
+          {
+            "name": "Surge 3",
+            "category": "Men Originals",
+            "price": "₱2,996",
+            "image": "https://underarmour.scene7.com/is/image/Underarmour/3024883-110_DEFAULT?rp=standard-30pad|pdpZoomDesktop&scl=0.50&fmt=jpg&qlt=85&resMode=sharp2&cache=on,on&bgc=f0f0f0&wid=1836&hei=1950&size=850,850"
+          },
+          {
+            "name": "Fila Disrupto",
+            "category": "Men Originals",
+            "price": "₱8,000",
+            "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/a73ec239af2e43d690e0ad4700a3c2dd_9366/NMD_R1_Shoes_White_GZ9259_01_standard.jpg"
+          },
+          {
+            "name": "Fila Disrupto",
+            "category": "Men Originals",
+            "price": "₱8,000",
+            "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/a73ec239af2e43d690e0ad4700a3c2dd_9366/NMD_R1_Shoes_White_GZ9259_01_standard.jpg"
+          },
+          {
+            "name": "Fila Disrupto",
+            "category": "Men Originals",
+            "price": "₱8,000",
+            "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/a73ec239af2e43d690e0ad4700a3c2dd_9366/NMD_R1_Shoes_White_GZ9259_01_standard.jpg"
+          },
+          {
+            "name": "Fila Disrupto",
+            "category": "Men Originals",
+            "price": "₱8,000",
+            "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/a73ec239af2e43d690e0ad4700a3c2dd_9366/NMD_R1_Shoes_White_GZ9259_01_standard.jpg"
+          },
+          {
+            "name": "Fila Disrupto",
+            "category": "Men Originals",
+            "price": "₱8,000",
+            "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/a73ec239af2e43d690e0ad4700a3c2dd_9366/NMD_R1_Shoes_White_GZ9259_01_standard.jpg"
+          },
           {
             "name": "Fila Disrupto",
             "category": "Men Originals",
