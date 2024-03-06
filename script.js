@@ -26,28 +26,6 @@ document.addEventListener("DOMContentLoaded", function () {
   }
 });
 
-const categoryWrapper = document.querySelector('.category-wrapper');
-const categories = document.querySelectorAll('.category');
-const categoryWidth = categories[0].offsetWidth;
-let currentIndex = 0;
-
-function goToNextCategory() {
-  currentIndex = (currentIndex + 1) % categories.length;
-  updateTransform();
-}
-
-function goToPreviousCategory() {
-  currentIndex = (currentIndex - 1 + categories.length) % categories.length;
-  updateTransform();
-}
-
-function updateTransform() {
-  categoryWrapper.style.transform = `translateX(-${currentIndex * categoryWidth}px)`;
-}
-
-// Auto slide every 3 seconds
-setInterval(goToNextCategory, 3000);
-
     function validateForm() {
       var username = document.getElementById("username").value;
       var password = document.getElementById("password").value;
@@ -63,6 +41,28 @@ setInterval(goToNextCategory, 3000);
     window.location.href = "homepage.html";
       alert("Opening next page...");
   }
+
+  let prevScrollPos = window.pageYOffset;
+let isNavbarHidden = false;
+const navbar = document.querySelector(".navbar");
+
+window.addEventListener("scroll", function() {
+  const currentScrollPos = window.pageYOffset;
+  if (prevScrollPos > currentScrollPos) {
+    if (isNavbarHidden) {
+      navbar.style.top = "0";
+      isNavbarHidden = false;
+    }
+  } else {
+    if (!isNavbarHidden) {
+      navbar.style.top = "-80px"; // Adjust as needed
+      navbar.style.position = "fixed";
+      isNavbarHidden = true;
+    }
+  }
+  prevScrollPos = currentScrollPos;
+});
+
 
 
 

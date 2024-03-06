@@ -6,11 +6,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Ecom - Login</title>
     <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" integrity="sha384-r8YLDHDEjvZlTKyOXZF7ig9hxWCO6jS+Gs4vQvZrC9Xh4tUQ7cW0zErOjsG0PaPI" crossorigin="anonymous">
+
 </head>
 
 <body class="login_body">
     <div class="login_container">
-        <h1 class="login_h1">MUCK</h1>
+        <h1 class="login_h1"><img src="https://fontmeme.com/temporary/578f12884ffb49936b3500948995c20f.png" alt="shoeshop"></h1>
         <div class="login_content">
             <h2>Login</h2>
             <form action="#" method="POST" id="login-form" onsubmit="return validateForm()">
@@ -26,19 +28,32 @@
                 <button class="buttonlogin" type="button" id="button_register"
                     onclick="showRegisterForm()">Register</button>
             </form>
+            <div class="login_or">Or</div>
+            <div class="social-login-container">
+                <button class="social-login facebook" onclick="loginWithFacebook()">
+                    <span>Login with FaceBook</span>
+                </button>
+            
+                <button class="social-login google" onclick="loginWithGoogle()">
+                    <span>Login with Google</span>
+                </button>
+            </div>
             <!-- Registration Form -->
             <form action="#" method="POST" id="register-form" style="display: none;">
-                <div class="registerbox">
-                    <div class="input-group">
-                        <label for="email">Email</label>
-                        <input type="email" id="email" name="email" required>
-                    </div>
-                    <!-- Additional registration fields can be added here -->
-                    <button class="buttonlogin" type="submit">Register</button>
+                <div class="input-group">
+                    <label for="email">Email</label>
+                    <input type="email" id="email" name="email" required>
                 </div>
+                <div class="input-group">
+                    <label for="password">Password</label>
+                    <input type="password" id="password" name="password" required>
+                </div>
+                <!-- Additional registration fields can be added here -->
+                <button class="buttonlogin" type="submit">Register</button>
             </form>
         </div>
     </div>
+    <div class="description">CHECK OUR SHOES</div>
     <script src="script.js"></script>
 </body>
 
