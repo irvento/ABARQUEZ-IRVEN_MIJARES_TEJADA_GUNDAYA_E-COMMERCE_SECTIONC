@@ -13,7 +13,8 @@ body{background-color: #6e6e6e;}
 box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px #000000;
   padding: 40px;
   width: 400px;
-  margin: 3% 0 2% 5%;
+  margin: 3% 0 5% 5%;
+  
 }
 
 .login_h1 {
@@ -263,6 +264,45 @@ button:hover {
 
 .navbar.scrolled {
   top: -80px; /* Adjust as needed to completely hide the navbar */
+}
+
+.cart-overlay {
+  display: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  z-index: 1000;
+}
+
+.cart-window {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: white;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+}
+
+.close-button {text-align: center;
+  top: 10px;
+  right: 10px;
+  width: auto;
+  height: auto;
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  font-size: 10px;
+  
+  color: #555;
+}
+
+.close-button:hover {
+  color: #000;
 }
 
 .logo a {

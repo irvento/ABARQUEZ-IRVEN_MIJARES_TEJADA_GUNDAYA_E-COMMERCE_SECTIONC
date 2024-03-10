@@ -6,61 +6,61 @@
         {
           "name": "Nike Dunk Low Retro SE",
           "category": "Men's Shoes",
-          "price": "6,895",
+          "price": "6895",
           "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/5e48bdf3-5ef4-4e25-8208-a84ec255c656/dunk-low-retro-se-shoes-RSrHtr.png"
         },
         {
           "name": "Nike Zoom Vomero 5",
           "category": "Women's Shoes",
-          "price": "8,895",
+          "price": "8895",
           "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/18f80bc9-88ac-450f-8f85-fbe2f68fa810/zoom-vomero-5-shoes-pTGjFN.png"
         },
         {
           "name": "Nike Dunk Low Retro",
           "category": "Men's Shoes",
-          "price": "5,495",
+          "price": "5495",
           "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/8caf5d7b-f44e-48e2-82f6-ad62978a6e14/dunk-low-retro-shoe-66RGqF.png"
         },
         {
           "name": "Nike Air Force 1 '07",
           "category": "Men's Shoes",
-          "price": "7,395",
+          "price": "7395",
           "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/b5406b0d-fb0b-4e94-ab81-4d24a3d79a2f/air-force-1-07-shoes-8jXZH2.png"
         },
         {
           "name": "Nike Air Dunk Combo",
           "category": "Men's Shoes",
-          "price": "7,095",
+          "price": "7095",
           "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/15724a2d-3ef7-4e16-86b8-570f314bab13/air-dunk-jumbo-shoes-wc8JrQ.png"
         },
         {
           "name": "Nike Air Jordan 1 Low OG",
           "category": "Men's Shoes",
-          "price": "5,895",
+          "price": "5895",
           "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/8c9506df-399e-4e8d-ad89-a62c073e67b4/air-jordan-1-low-og-older-shoes.png"
         },
         {
           "name": "Air Jordan 1 Low",
           "category": "Women's Shoes",
-          "price": "6,195",
+          "price": "6195",
           "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/bf36545d-5fb4-4c97-a7ea-c159c1b704c4/air-jordan-1-low-shoes-459b4T.png"
         },
         {
           "name": "Air Jordan 1 Low SE craft",
           "category": "Men's Shoes",
-          "price": "6,895",
+          "price": "6895",
           "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/13190eab-1f63-421e-b8da-c96e5d08ab50/air-jordan-1-low-se-craft-shoes-76v7Vm.png"
         },
         {
           "name": "Air Jordan 1 Mid SE",
           "category": "Men's Shoes",
-          "price": "8,395",
+          "price": "8395",
           "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/51d3beba-ea5c-4ee6-b702-ba54167ac880/air-jordan-1-mid-se-shoes-XkFP30.png"
         },
         {
           "name": "Air Jordan Legacy 312 Low PSG",
           "category": "Men's Shoes",
-          "price": "7,895",
+          "price": "7895",
           "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/337267c0-d8e6-483d-bd8f-21a59678482a/air-jordan-legacy-312-low-psg-shoes-SXP9BX.png"
         }
       ]
@@ -71,61 +71,61 @@
         {
           "name": "NMD_R1 SHOES",
           "category": "Men Originals",
-          "price": "8,000",
+          "price": "8000",
           "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/a73ec239af2e43d690e0ad4700a3c2dd_9366/NMD_R1_Shoes_White_GZ9259_01_standard.jpg"
         },
         {
           "name": "CONTINENTAL 80 SHOES",
           "category": "ORIGINALS",
-          "price": "5,300",
+          "price": "5300",
           "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/c6f0aede76f849a18a27a91500a0c8c9_9366/Continental_80_Shoes_Black_G27707_01_standard.jpg"
         },
         {
           "name": "OZNOVA SHOES",
           "category": "Men's Shoes",
-          "price": "6,500",
+          "price": "6500",
           "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/172d3c4539c64ba7a43eaefc0133ba61_9366/OZNOVA_Shoes_Black_GX4506_01_standard.jpg"
         },
         {
           "name": "BYW SELECT SHOES",
           "category": "Basketball",
-          "price": "8,500",
+          "price": "8500",
           "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/2b7ee92c18614c0dba10af9c01224d7e_9366/BYW_Select_Shoes_White_IG4947_01_standard.jpg"
         },
         {
           "name": "PREDATOR ELITE FIRM GROUND FOOTBALL BOOTS",
           "category": "Football",
-          "price": "12,000",
+          "price": "12000",
           "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/6667cf80cda845aca1e209ef45bd7e4a_9366/Predator_Elite_Firm_Ground_Football_Boots_Black_IE1804_01_standard.jpg"
         },
         {
           "name": "SAMBA ADV X KADER SHOES",
           "category": "Men • Originals",
-          "price": "6,800",
+          "price": "6800",
           "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/9c48e68ba3c647d484bb8b2720e998f0_9366/Samba_ADV_x_Kader_Shoes_Black_IF9235_01_standard.jpg"
         },
         {
           "name": "VL COURT 3.0 SHOES",
           "category": "Men • Sportswear",
-          "price": "3,900",
+          "price": "3900",
           "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/6a245858af4d44c7b1c8227485065748_9366/VL_Court_3.0_Shoes_White_ID6285_01_standard.jpg"
         },
         {
           "name": "X_PLRBOOST SHOES",
           "category": "Men's Shoes",
-          "price": "9,500",
+          "price": "9500",
           "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/909cd24b43ad45e19d70af56015788f0_9366/X_PLRBOOST_Shoes_White_HP3130_01_standard.jpg"
         },
         {
           "name": "RUN 70S LIFESTYLE RUNNING SHOES",
           "category": "Men's Shoes",
-          "price": "3,500",
+          "price": "3500",
           "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/782286762b444bca8784ad6b0089e850_9366/Run_70s_Lifestyle_Running_Shoes_White_GY3884_01_standard.jpg"
         },
         {
           "name": "EQ21 RUN SHOES",
           "category": "Men • Running",
-          "price": "4,500",
+          "price": "4500",
           "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/47794cf902dd4f2aa35dad0a013f74e0_9366/EQ21_Run_Shoes_Grey_H00515_01_standard.jpg"
         }
       ]
@@ -136,61 +136,61 @@
         {
           "name": "FILA Men's Akira Jogger MS Sneakers",
           "category": "Jogging",
-          "price": "2,499.00",
+          "price": "2499",
           "image": "https://fila.com.ph/cdn/shop/files/12HE50292328270_1.jpg?v=1707790814"
         },
         {
           "name": "FILA Men's Arigato",
           "category": "Jogger MS Sneakers",
-          "price": "2,499.00",
+          "price": "2499",
           "image": "https://fila.com.ph/cdn/shop/products/12HE50032221211A70_1.jpg?v=1686713064"
         },
         {
           "name": "Fila Men's Blasting Flow ",
           "category": " Run Sneakers",
-          "price": "2,429.00",
+          "price": "2429",
           "image": "https://fila.com.ph/cdn/shop/products/12FL501322292770_2.jpg?v=1670659822"
         },
         {
           "name": "Fila Men's Chillax Lite",
           "category": "Run MS Sneakers",
-          "price": "2,499.00",
+          "price": "2499",
           "image": "https://fila.com.ph/cdn/shop/products/12XL50212211A70_1.jpg?v=1674528926"
         },
         {
           "name": "FILA Men's Decypher",
           "category": "By Verdict Sneakers",
-          "price": "3,599.00",
+          "price": "3599",
           "image": "https://fila.com.ph/cdn/shop/products/1RM01786F00165_1.jpg?v=1682502595"
         },
         {
           "name": "FILA Men's DayOff",
           "category": "Jogger MS Sneakers",
-          "price": "2,499.00",
+          "price": "2499",
           "image": "https://fila.com.ph/cdn/shop/products/12HE5004222870_1.jpg?v=1686713085"
         },
         {
           "name": "FILA Men's Diversity",
           "category": "Flow Run MS Sneakers",
-          "price": "1,999.00 ",
+          "price": "1999",
           "image": "https://fila.com.ph/cdn/shop/files/12HY500623111270_1.jpg?v=1702617186"
         },
         {
           "name": "Fila Men's Everest",
           "category": "Crypto Sneakers",
-          "price": "2,429.00",
+          "price": "2429",
           "image": "https://fila.com.ph/cdn/shop/products/12UR50062229122770_1.jpg?v=1668754644"
         },
         {
           "name": "Fila Men's Flow Catcher",
           "category": "Run MS Sneakers",
-          "price": "2,699.00",
+          "price": "2699",
           "image": "https://fila.com.ph/cdn/shop/products/12FL5002721A2282770_1.jpg?v=1666686882"
         },
         {
           "name": "FILA Men's Flow Flexy",
           "category": "Run MS Sneakers",
-          "price": "1,999.00",
+          "price": "1999",
           "image": "https://fila.com.ph/cdn/shop/files/12FL50382322970_1_10e5ff0d-f76b-4254-a17f-8f91ca35292b.jpg?v=1707193553"
         }
       ]
@@ -201,61 +201,61 @@
         {
           "name": "Phantom 3 SE Storm",
           "category": "Running Shoes",
-          "price": "6,746",
+          "price": "6746",
           "image": "https://underarmour.scene7.com/is/image/Underarmour/3026610-301_DEFAULT?rp=standard-30pad|pdpZoomDesktop&scl=0.50&fmt=jpg&qlt=85&resMode=sharp2&cache=on,on&bgc=f0f0f0&wid=1836&hei=1950&size=850,850"
         },
         {
           "name": "Turbulence 2",
           "category": "Running Shoes",
-          "price": "4,192",
+          "price": "4192",
           "image": "https://underarmour.scene7.com/is/image/Underarmour/3026520-004_DEFAULT?rp=standard-30pad|pdpZoomDesktop&scl=0.50&fmt=jpg&qlt=85&resMode=sharp2&cache=on,on&bgc=f0f0f0&wid=1836&hei=1950&size=850,850"
         },
         {
           "name": "Lockdown 6 ",
           "category": "Running Shoes",
-          "price": "3,221",
+          "price": "3221",
           "image": "https://underarmour.scene7.com/is/image/Underarmour/3025616-102_DEFAULT?rp=standard-30pad|pdpZoomDesktop&scl=0.50&fmt=jpg&qlt=85&resMode=sharp2&cache=on,on&bgc=f0f0f0&wid=1836&hei=1950&size=850,850"
         },
         {
           "name": "Surge 3",
           "category": "Men Originals",
-          "price": "2,996",
+          "price": "2996",
           "image": "https://underarmour.scene7.com/is/image/Underarmour/3024883-110_DEFAULT?rp=standard-30pad|pdpZoomDesktop&scl=0.50&fmt=jpg&qlt=85&resMode=sharp2&cache=on,on&bgc=f0f0f0&wid=1836&hei=1950&size=850,850"
         },
         {
           "name": "UA Surge 3",
           "category": "Running Shoes",
-          "price": "2,996.25",
+          "price": "2996.25",
           "image": "https://underarmour.scene7.com/is/image/Underarmour/3024883-110_DEFAULT?rp=standard-30pad|pdpMainDesktop&scl=1&fmt=jpg&qlt=85&resMode=sharp2&cache=on,on&bgc=f0f0f0&wid=566&hei=708&size=536,688"
         },
         {
           "name": "Unisex UA HOVR™ Mega 2 MVMNT",
           "category": "Sportstyle Shoes",
-          "price": "6,971.25",
+          "price": "6971",
           "image": "https://underarmour.scene7.com/is/image/Underarmour/3026629-001_DEFAULT?rp=standard-30pad|pdpMainDesktop&scl=1&fmt=jpg&qlt=85&resMode=sharp2&cache=on,on&bgc=f0f0f0&wid=566&hei=708&size=536,688"
         },
         {
           "name": "Curry 3Z7",
           "category": "Basketball Shoes",
-          "price": "4,496.25",
+          "price": "4496",
           "image": "https://underarmour.scene7.com/is/image/Underarmour/3026622-002_DEFAULT?rp=standard-30pad|pdpMainDesktop&scl=1&fmt=jpg&qlt=85&resMode=sharp2&cache=on,on&bgc=f0f0f0&wid=566&hei=708&size=536,688  "
         },
         {
           "name": " Project Rock BSR 3",
           "category": "Training Shoes",
-          "price": " 5,246.25",
+          "price": " 5246",
           "image": "https://underarmour.scene7.com/is/image/Underarmour/3026462-001_DEFAULT?rp=standard-30pad|pdpMainDesktop&scl=1&fmt=jpg&qlt=85&resMode=sharp2&cache=on,on&bgc=f0f0f0&wid=566&hei=708&size=536,688"
         },
         {
           "name": "UA HOVR™ Intake 6",
           "category": "Running Shoes",
-          "price": " 4,496.25",
+          "price": " 4496",
           "image": "https://underarmour.scene7.com/is/image/Underarmour/3026141-104_DEFAULT?rp=standard-30pad|pdpMainDesktop&scl=1&fmt=jpg&qlt=85&resMode=sharp2&cache=on,on&bgc=f0f0f0&wid=566&hei=708&size=536,688"
         },
         {
           "name": "UA Charged Assert 10",
           "category": "Running Shoes",
-          "price": "2,696.25",
+          "price": "2696",
           "image": "https://underarmour.scene7.com/is/image/Underarmour/3026175-101_DEFAULT?rp=standard-30pad|pdpMainDesktop&scl=1&fmt=jpg&qlt=85&resMode=sharp2&cache=on,on&bgc=f0f0f0&wid=566&hei=708&size=536,688"
         }
         
@@ -267,25 +267,25 @@
         {
           "name": "Caven Trainers",
           "category": "Sneakers",
-          "price": " 3,800",
+          "price": " 3800",
           "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_1050,h_1050/global/380810/06/sv01/fnd/PHL/fmt/png/Caven-Trainers"
         },
         {
           "name": "Trinity",
           "category": "Sneakers",
-          "price": " 5,800",
+          "price": " 5800",
           "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_1050,h_1050/global/389289/01/sv01/fnd/PHL/fmt/png/Trinity-Sneakers-Men"
         },
         {
           "name": "RBD Game Low",
           "category": "Sneakers",
-          "price": " 4,500",
+          "price": " 4500",
           "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_1050,h_1050/global/386373/02/sv01/fnd/PHL/fmt/png/RBD-Game-Low-Sneakers"
         },
         {
           "name": "PUMA Shuffle",
           "category": "Trainers",
-          "price": " 3,300",
+          "price": " 3300",
           "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_1050,h_1050/global/309668/26/sv01/fnd/PHL/fmt/png/PUMA-Shuffle-Trainers"
         },
         {
@@ -297,31 +297,31 @@
         {
           "name": "RS-X Games",
           "category": "Sneakers",
-          "price": " 5,400",
+          "price": " 5400",
           "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_1050,h_1050/global/393161/02/sv01/fnd/PHL/fmt/png/RS-X-Games-Sneakers"
         },
         {
           "name": "Slipstream Everywhere",
           "category": "Sneakers",
-          "price": " 3,306",
+          "price": " 3306",
           "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_1050,h_1050/global/393356/01/sv01/fnd/PHL/fmt/png/Slipstream-Everywhere-Sneakers"
         },
         {
           "name": "Rebound Joy Low",
           "category": "Trainers",
-          "price": " 3,000",
+          "price": " 3000",
           "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_1050,h_1050/global/380747/06/sv01/fnd/PHL/fmt/png/Rebound-Joy-Low-Trainers"
         },
         {
           "name": "RS-X Efekt PRM",
           "category": "Sneakers",
-          "price": " 5,700",
+          "price": " 5700",
           "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_1050,h_1050/global/390776/10/sv01/fnd/PHL/fmt/png/RS-X-Efekt-PRM-Sneakers"
         },
         {
           "name": "Playmaker 2023",
           "category": "Sneakers",
-          "price": " 5,400",
+          "price": " 5400",
           "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_1050,h_1050/global/392330/06/sv01/fnd/PHL/fmt/png/Playmaker-2023-Sneakers"
         }
       ]
@@ -332,61 +332,61 @@
         {
           "name": "Old Skool V Suede",
           "category": "Skateboarding Shoes",
-          "price": " 4,208",
+          "price": " 4208",
           "image": "https://images.vans.com/is/image/Vans/VN0A3D29_OIU_ALT1?hei=617&wid=492&qlt=50&resMode=sharp2&op_sum=0.9,1.0,8,0"
         },
         {
           "name": "Old Skool Primary",
           "category": "Skateboarding Shoes",
-          "price": " 4,208.",
+          "price": " 4208.",
           "image": "https://images.vans.com/is/image/Vans/VN0A38G1_P0S_ALT1?hei=617&wid=492&qlt=50&resMode=sharp2&op_sum=0.9,1.0,8,0"
         },
         {
           "name": "Old Skool",
           "category": "Skateboarding Shoes",
-          "price": " 3,928",
+          "price": " 3928",
           "image": "https://images.vans.com/is/image/Vans/VN000D3H_Y28_ALT1?hei=617&wid=492&qlt=50&resMode=sharp2&op_sum=0.9,1.0,8,0"
         },
         {
           "name": "Authentic Shoe",
           "category": "Skateboarding Shoes",
-          "price": " 3,086",
+          "price": " 3086",
           "image": "https://images.vans.com/is/image/Vans/VN000EE3_BLK_ALT1?hei=617&wid=492&qlt=50&resMode=sharp2&op_sum=0.9,1.0,8,0"
         },
         {
           "name": "Sk8-Low",
           "category": "Skateboarding Shoes",
-          "price": " 4,489",
+          "price": " 4489",
           "image": "https://images.vans.com/is/image/Vans/VN000BVX_KAQ_ALT1?hei=617&wid=492&qlt=50&resMode=sharp2&op_sum=0.9,1.0,8,0"
         },
         {
           "name": "Lowland ComfyCush Leather",
           "category": "Skateboarding Shoes",
-          "price": " 4,770",
+          "price": " 4770",
           "image": "https://images.vans.com/is/image/Vans/VN0A7TNL_91Q_ALT1?hei=617&wid=492&qlt=50&resMode=sharp2&op_sum=0.9,1.0,8,0"
         },
         {
           "name": "Classic Slip-On Checkerboard",
           "category": "Skateboarding Shoes",
-          "price": " 3,367",
+          "price": " 3367",
           "image": "https://images.vans.com/is/image/Vans/VN000EYE_BKA_ALT1?hei=617&wid=492&qlt=50&resMode=sharp2&op_sum=0.9,1.0,8,0"
         },
         {
           "name": "Sk8-Hi",
           "category": "Skateboarding Shoes",
-          "price": " 4,208",
+          "price": " 4208",
           "image": "https://images.vans.com/is/image/Vans/VN000CMX_9JC_ALT1?hei=617&wid=492&qlt=50&resMode=sharp2&op_sum=0.9,1.0,8,0"
         },
         {
           "name": "Sport Low Suede",
           "category": "Skateboarding Shoes",
-          "price": " 3,928",
+          "price": " 3928",
           "image": "https://images.vans.com/is/image/Vans/VN000CQR_YB2_ALT1?hei=617&wid=492&qlt=50&resMode=sharp2&op_sum=0.9,1.0,8,0"
         },
         {
           "name": "Old Skool Classic Tumble",
           "category": "Skateboarding Shoes",
-          "price": " 4,208",
+          "price": " 4208",
           "image": "https://images.vans.com/is/image/Vans/VN0A38G1_ODJ_ALT1?hei=617&wid=492&qlt=50&resMode=sharp2&op_sum=0.9,1.0,8,0"
         }
       ]
@@ -397,61 +397,61 @@
         {
           "name": "GT-2000 12 TR",
           "category": "Running Shoes",
-          "price": " 8,990",
+          "price": " 8990",
           "image": "https://storage.sg.content-cdn.io/cdn-cgi/image/width=550,height=412,quality=75,format=auto/in-resources/642d9607-fde5-4aac-b350-791b119ee0dc/Images/ProductImages/Source/1011B775_200_SR_RT_GLB_PNG_600x600-JPG.jpg"
         },
         {
           "name": "GT-2000 12",
           "category": "Running Shoes",
-          "price": " 8,990",
+          "price": " 8990",
           "image": "https://storage.sg.content-cdn.io/cdn-cgi/image/%7Bwidth%7D,%7Bheight%7D,quality=75,format=auto/in-resources/642d9607-fde5-4aac-b350-791b119ee0dc/Images/ProductImages/Source/1012B506_750_SR_RT_GLB_PNG_600x600-JPG.jpg"
         },
         {
           "name": "GEL-NIMBUS 25 TR",
           "category": "Running Shoes",
-          "price": " 10,490",
+          "price": " 10490",
           "image": "https://storage.sg.content-cdn.io/cdn-cgi/image/width=550,height=412,quality=75,format=auto/in-resources/642d9607-fde5-4aac-b350-791b119ee0dc/Images/ProductImages/Source/1011B769_200_SR_RT_GLB_PNG_600x600-JPG.jpg"
         },
         {
           "name": "GEL-KAYANO 30",
           "category": "Running Shoes",
-          "price": " 10,490",
+          "price": " 10490",
           "image": "https://storage.sg.content-cdn.io/cdn-cgi/image/%7Bwidth%7D,%7Bheight%7D,quality=75,format=auto,fit=cover,g=top/in-resources/642d9607-fde5-4aac-b350-791b119ee0dc/Images/ProductImages/Source/1011B548_004_SR_RT_GLB.jpg"
         },
         {
           "name": "MAGIC SPEED 3",
           "category": "Running Shoes",
-          "price": " 10,390",
+          "price": " 10390",
           "image": "https://storage.sg.content-cdn.io/cdn-cgi/image/width=550,height=412,quality=75,format=auto/in-resources/642d9607-fde5-4aac-b350-791b119ee0dc/Images/ProductImages/Source/1011B703_400_SR_RT_GLB_PNG_600x600-JPG.jpg"
         },
         {
           "name": "GEL-KAYANO 30 ANNIVERSARY",
           "category": "Running Shoes",
-          "price": " 11,290",
+          "price": " 11290",
           "image": "https://storage.sg.content-cdn.io/cdn-cgi/image/%7Bwidth%7D,%7Bheight%7D,quality=75,format=auto/in-resources/642d9607-fde5-4aac-b350-791b119ee0dc/Images/ProductImages/Source/1011B764_100_SR_RT_GLB.jpg"
         },
         {
           "name": "GEL-CUMULUS 25 TR",
           "category": "Running Shoes",
-          "price": " 8,390",
+          "price": " 8390",
           "image": "https://storage.sg.content-cdn.io/cdn-cgi/image/width=550,height=412,quality=75,format=auto/in-resources/642d9607-fde5-4aac-b350-791b119ee0dc/Images/ProductImages/Source/1011B751_200_SR_RT_GLB_PNG_600x600-JPG.jpg"
         },
         {
           "name": "NOVABLAST 3 LE",
           "category": "Running Shoes",
-          "price": " 8,690",
+          "price": " 8690",
           "image": "https://storage.sg.content-cdn.io/cdn-cgi/image/width=550,height=412,quality=75,format=auto/in-resources/642d9607-fde5-4aac-b350-791b119ee0dc/Images/ProductImages/Source/1012B410_400_SR_RT_GLB_PNG_600x600-JPG.jpg"
         },
         {
           "name": "TARTHER RP 3",
           "category": "Running Shoes",
-          "price": " 8,990",
+          "price": " 8990",
           "image": "https://storage.sg.content-cdn.io/cdn-cgi/image/width=550,height=412,quality=75,format=auto/in-resources/642d9607-fde5-4aac-b350-791b119ee0dc/Images/ProductImages/Source/1011B465_100_SR_RT_GLB.jpg"
         },
         {
           "name": "GEL-RESOLUTION 9",
           "category": "Running Shoes",
-          "price": " 9,490",
+          "price": " 9490",
           "image": "https://storage.sg.content-cdn.io/cdn-cgi/image/width=550,height=412,quality=75,format=auto/in-resources/642d9607-fde5-4aac-b350-791b119ee0dc/Images/ProductImages/Source/1041A330_600_SR_RT_GLB_PNG_600x600-JPG.jpg"
         }
       ]
@@ -462,61 +462,61 @@
         {
           "name": "Reebok Club C 85 Vintage",
           "category": "Classic",
-          "price": " 4,315.50",
+          "price": " 4315.50",
           "image": "https://reebok.ph/cdn/shop/files/100033001_SLC_eCom.jpg?v=1697175923"
         },
         {
           "name": "REEBOK Court Advance",
           "category": "Classic",
-          "price": " 2,147.50",
+          "price": " 2147.50",
           "image": "https://reebok.ph/cdn/shop/files/courtadvnceblack-_1.png?v=1693886309&width=823"
         },
         {
           "name": "Reebok Club C 85 Vintage",
           "category": "Classic",
-          "price": " 3,356.50",
+          "price": " 3356.50",
           "image": "https://reebok.ph/cdn/shop/files/reebok-club-c-85-vintage-sneakers_20138762_50316927_2048.webp?v=1696034849&width=823"
         },
         {
           "name": "Reebok Classic Leather",
           "category": "",
-          "price": " 2,497.50",
+          "price": " 2497.50",
           "image": "https://reebok.ph/cdn/shop/files/reebok-classic-leather-sneakers_20136957_50314820_2048.webp?v=1692671241&width=823"
         },
         {
           "name": "Reebok Ultra Flash",
           "category": "Sneakers",
-          "price": " 1,997.50",
+          "price": " 1997.50",
           "image": "https://reebok.ph/cdn/shop/files/reebok-reebok-ultra-flash-sneakers-20137467-50389495-2048-webp_1.jpg?v=1693363232&width=823"
         },
         {
           "name": "Reebok Zig Dynamica 4",
           "category": "Running Shoes",
-          "price": " 2,297.50",
+          "price": " 2297.50",
           "image": "https://reebok.ph/cdn/shop/files/reebok-zig-dynamica-4-shoes-20137475-50315181-2048-webp_1.jpg?v=1693363252&width=823"
         },
         {
           "name": "Reebok X Harry Potter Classic Leather Hexalite",
           "category": "Classic",
-          "price": " 6,795",
+          "price": " 6795",
           "image": "https://reebok.ph/cdn/shop/files/100201813_SLC_eCom.jpg?v=1696840429"
         },
         {
           "name": "Reebok Court Advance",
           "category": "Classic",
-          "price": " 2,147.50",
+          "price": " 2147.50",
           "image": "https://reebok.ph/cdn/shop/files/2025319630975_2_d2a5c652-3843-457f-b4d1-0839db861277.jpg?v=1693304172&width=823"
         },
         {
           "name": "Reebok Classic Leather",
           "category": "Classic",
-          "price": " 2,797.50",
+          "price": " 2797.50",
           "image": "https://reebok.ph/cdn/shop/files/100032760_SLC_eCom.jpg?v=1692869757&width=823"
         },
         {
           "name": "Reebok Club C Bulc",
           "category": "Skate Shoes",
-          "price": " 3,496.50",
+          "price": " 3496.50",
           "image": "https://reebok.ph/cdn/shop/files/100033926_SLC_eCom.jpg?v=1697684396"
         }
       ]
@@ -527,61 +527,61 @@
         {
           "name": "FuelCell SuperComp Elite v4",
           "category": "Running Shoes",
-          "price": " 14,030.69",
+          "price": " 14030.69",
           "image": "https://nb.scene7.com/is/image/NB/mrcella4_nb_02_i?$pdpflexf2$&qlt=80&fmt=webp&wid=440&hei=440"
         },
         {
           "name": "Fresh Foam X 1080v13",
           "category": "Running Shoes",
-          "price": " 9,260.06",
+          "price": " 9260.06",
           "image": "https://nb.scene7.com/is/image/NB/m108013a_nb_02_i?$pdpflexf2$&qlt=80&fmt=webp&wid=440&hei=440"
         },
         {
           "name": "Fresh Foam X 880v14",
           "category": "Running Shoes",
-          "price": " 7,856.94",
+          "price": " 7856.94",
           "image": "https://nb.scene7.com/is/image/NB/m880g14_nb_02_i?$pdpflexf2$&qlt=80&fmt=webp&wid=440&hei=440"
         },
         {
           "name": "Made in USA 990v6",
           "category": "Running Shoes",
-          "price": " 11,224.446",
+          "price": " 11224.446",
           "image": "https://nb.scene7.com/is/image/NB/m990gl6_nb_02_i?$pdpflexf2$&qlt=80&fmt=webp&wid=440&hei=440"
         },
         {
           "name": "1906R",
           "category": "Running Shoes",
-          "price": " 8,698.81",
+          "price": " 8698.81",
           "image": "https://nb.scene7.com/is/image/NB/m1906rea_nb_02_i?$pdpflexf2$&qlt=80&fmt=webp&wid=440&hei=440"
         },
         {
           "name": "Made in USA 990v4",
           "category": "Running Shoes",
-          "price": " 11,785.69",
+          "price": " 11785.69",
           "image": "https://nb.scene7.com/is/image/NB/u990tg4_nb_02_i?$pdpflexf2$&qlt=80&fmt=webp&wid=440&hei=440"
         },
         {
           "name": "9060",
           "category": "Running Shoes",
-          "price": " 8,417.66",
+          "price": " 8417",
           "image": "https://nb.scene7.com/is/image/NB/u9060eca_nb_02_i?$pdpflexf2$&qlt=80&fmt=webp&wid=440&hei=440"
         },
         {
           "name": "2002R",
           "category": "Running Shoes",
-          "price": " 8,417.66",
+          "price": " 8417",
           "image": "https://nb.scene7.com/is/image/NB/m2002rek_nb_02_i?$pdpflexf2$&qlt=80&fmt=webp&wid=440&hei=440"
         },
         {
           "name": "530",
           "category": "Running Shoes",
-          "price": " 5,611.94",
+          "price": " 5611",
           "image": "https://nb.scene7.com/is/image/NB/mr530sg_nb_02_i?$pdpflexf2$&qlt=80&fmt=webp&wid=440&hei=440"
         },
         {
           "name": "Made in USA 998",
           "category": "Running Shoes",
-          "price": " 11,785.69",
+          "price": " 11785",
           "image": "https://nb.scene7.com/is/image/NB/u998gb_nb_02_i?$pdpflexf2$&qlt=80&fmt=webp&wid=440&hei=440"
         }
       ]

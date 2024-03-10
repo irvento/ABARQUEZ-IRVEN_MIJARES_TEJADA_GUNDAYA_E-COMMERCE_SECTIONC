@@ -150,16 +150,21 @@ window.addEventListener("scroll", function() {
 
     cartItem.textContent = item.name + " - ₱ " + item.price;
     cartItemsContainer.appendChild(cartItem);
-   
-    
 
-    let total = Integer.parseInt(itemPrice);
-    
+    let total = 0; // Initialize total outside the loop
 
-    document.getElementById("textfield").innerHTML = total;
+    // Iterate through each item in the cart to calculate total
+    const cartItems = cartItemsContainer.querySelectorAll("div");
+    cartItems.forEach(cartItem => {
+        const itemPrice = parseInt(cartItem.textContent.split("₱")[1].trim());
+        total += itemPrice;
+    });
+
+    document.getElementById("textfield").innerHTML = "Total: " + total;
 
     updateCartItemCount();
-  }
+}
+
 
   function updateCartItemCount() {
     const cartItemsCount = document.querySelector(".cart-items");
@@ -167,3 +172,14 @@ window.addEventListener("scroll", function() {
   }
   
   
+  function showOverlay() {
+    document.getElementById("cartOverlay").style.display = "block";
+  }
+  
+  // Function to close the overlay
+  function closeOverlay() {
+    document.getElementById("cartOverlay").style.display = "none";
+  }
+  
+  // Attaching click event listener to the cart button
+  document.getElementById("cartButton").addEventListener("click", showOverlay);
